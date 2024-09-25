@@ -1,0 +1,7 @@
+www.chatgpt.com
+search.chatgpt.com
+api.chatgpt.com
+piwik.chatgpt.com
+internal.chatgpt.com
+desktop.chatgpt.com
+ab.chatgpt.com
